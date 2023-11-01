@@ -1,7 +1,7 @@
 /* general */
 
 body {
-    font-family: "Roboto", sans-serif, "Arial", "Arial", "Tahoma", "Trebuchet MS", "Verdana", sans-serif;
+    font-family: "Roboto", sans-serif;
     background-color: #FFF;
     color: var(--SLATE, #434455);
     font-style: normal;
