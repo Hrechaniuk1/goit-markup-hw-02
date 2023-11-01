@@ -29,16 +29,16 @@ a {
 .name {
     color: var(--NAVY-BLUE, #2E2F42);
         font-size: 20px;
-        line-height: 1.2;
+        line-height: 1.5;
         font-weight: 500;
-        letter-spacing: 0.4px;
+        letter-spacing: 0.02em;
 }
 
 .description {
     font-size: 16px;
     line-height: 1.5;
     font-weight: 400;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 
 /* section-1 */
@@ -54,11 +54,11 @@ a {
 }
 
 
-.logo-2 {
+.logo-one {
     color: var(--NAVY-BLUE, #2E2F42);
 }
 
-.logo-2-1 {
+.logo-two {
     color: var(--CLOUD, #F4F4FD);
 }
 
@@ -223,4 +223,6 @@ footer {
 
 .foot-description {
     color: var(--CLOUD, #F4F4FD);
+    letter-spacing: 0.02em;
+    line-height: 1.5;
 }
